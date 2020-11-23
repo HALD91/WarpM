@@ -1,0 +1,82 @@
+###########################
+#####                 #####
+####                   ####
+###   Author: HALD91    ###
+###   Version: 1.4.5.7  ###
+####                   ####
+#####                 #####
+###########################
+
+## UPS!!
+## All items needs to be with caps-look.
+## example
+## Item0: DIAMOND_SWORD
+
+## Choose your own Item around the plugins. To give the item no name use "None"
+ArItem: 'BLUE_STAINED_GLASS_PANE'
+ArName: 'None'
+
+## Set your own prefix here on commands in chat or on the warp menu.
+Prefix: '&7[&3Warp&7]'
+## Warp 1.
+Item1: 'PAPER'
+
+Name1: ''
+
+WarpLoc1: ''
+
+## Warp 2.
+Item2: 'PAPER'
+
+Name2: ''
+
+WarpLoc2: ''
+
+## Warp 3.
+Item3: 'PAPER'
+
+Name3: ''
+
+WarpLoc3: ''
+
+## Warp 4.
+Item4: 'PAPER'
+
+Name4: ''
+
+WarpLoc4: ''
+
+## Warp 5.
+Item5: 'PAPER'
+
+Name5: ''
+
+WarpLoc5: ''
+
+## Warp 6.
+Item6: 'PAPER'
+
+Name6: ''
+
+WarpLoc6: ''
+
+## Warp 7.
+Item7: 'PAPER'
+
+Name7: ''
+
+WarpLoc7: ''
+
+## Warp 8.
+Item8: 'PAPER'
+
+Name8: ''
+
+WarpLoc8: ''
+
+## Warp 9.
+Item9: 'PAPER'
+
+Name9: ''
+
+WarpLoc9: ''
